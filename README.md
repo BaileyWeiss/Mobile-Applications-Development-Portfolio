@@ -1,12 +1,10 @@
 > **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
 
-# LIS4331 Advnaced Mobile Applications Development
+# Mobile Applications Development Portfolio
 
 ## Bailey Weiss
 
-### LIS4331 Requirements:
-
-*Course Work Links:*
+### Links to Projects:
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
     - Install JDK
